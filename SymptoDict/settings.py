@@ -82,7 +82,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'symptodict',
         'USER': 'postgres',
-        'PASSWORD': '1234',
+        'PASSWORD': 'test123',
         'HOST': 'localhost'
     }
 }
